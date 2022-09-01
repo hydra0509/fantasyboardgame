@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/fantasyboardgame/static/css/main.a497ba0d.css",
-    "main.js": "/fantasyboardgame/static/js/main.125cc78d.js",
-    "static/media/oldmandance.gif": "/fantasyboardgame/static/media/oldmandance.7e5fa22d3f60e716b476.gif",
+    "main.js": "/fantasyboardgame/static/js/main.363bb84a.js",
     "static/media/crystal.png": "/fantasyboardgame/static/media/crystal.db4cbb0c287e6a9c910d.png",
     "static/media/ezres.png": "/fantasyboardgame/static/media/ezres.0d322193807ff2d68f77.png",
     "static/media/ketezres.png": "/fantasyboardgame/static/media/ketezres.ee4205196b6e7adb5b5d.png",
     "static/media/otszazas.png": "/fantasyboardgame/static/media/otszazas.c59851889ef58f02f3bb.png",
     "static/media/acecard.png": "/fantasyboardgame/static/media/acecard.085e5b407edf69daecd5.png",
     "static/media/otezres.png": "/fantasyboardgame/static/media/otezres.06f797b4a9deb367a361.png",
-    "static/media/gambler.png": "/fantasyboardgame/static/media/gambler.55b64fdd5bf199a445a2.png",
     "static/media/paladin.png": "/fantasyboardgame/static/media/paladin.fa0fc3753cf657037745.png",
     "static/media/beartrap.png": "/fantasyboardgame/static/media/beartrap.e4d20c91a1635207e356.png",
     "static/media/chest.png": "/fantasyboardgame/static/media/chest.5e2d6193812c7d857191.png",
@@ -21,9 +19,9 @@
     "static/media/magus.jpg": "/fantasyboardgame/static/media/magus.ad208c05897083fee2ee.jpg",
     "static/media/barfight.jpg": "/fantasyboardgame/static/media/barfight.c3a90ff46aa0ad2a0d93.jpg",
     "static/media/thief.jpg": "/fantasyboardgame/static/media/thief.9fa06959de46ecd8c5e7.jpg",
+    "static/media/victory.jpg": "/fantasyboardgame/static/media/victory.94bd0838e3dc40219426.jpg",
     "static/media/god.jpg": "/fantasyboardgame/static/media/god.830aa9a4bf36de84e869.jpg",
     "static/media/dragonSlayer.jpg": "/fantasyboardgame/static/media/dragonSlayer.72e7503e7c9e96d234c9.jpg",
-    "static/media/lotto2.png": "/fantasyboardgame/static/media/lotto2.676cf2847a4de83a18b5.png",
     "static/media/gambleimage.jpg": "/fantasyboardgame/static/media/gambleimage.710f7b308f05d59f6d82.jpg",
     "static/media/portal.jpg": "/fantasyboardgame/static/media/portal.a5c3c257f166b76d0a25.jpg",
     "static/media/curseCardlocked.jpg": "/fantasyboardgame/static/media/curseCardlocked.0a53b9e26ce3f542a4db.jpg",
@@ -37,10 +35,10 @@
     "static/media/scroll.jpg": "/fantasyboardgame/static/media/scroll.39d28459454f8ddf1cb3.jpg",
     "index.html": "/fantasyboardgame/index.html",
     "main.a497ba0d.css.map": "/fantasyboardgame/static/css/main.a497ba0d.css.map",
-    "main.125cc78d.js.map": "/fantasyboardgame/static/js/main.125cc78d.js.map"
+    "main.363bb84a.js.map": "/fantasyboardgame/static/js/main.363bb84a.js.map"
   },
   "entrypoints": [
     "static/css/main.a497ba0d.css",
-    "static/js/main.125cc78d.js"
+    "static/js/main.363bb84a.js"
   ]
 }
